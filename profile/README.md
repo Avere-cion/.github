@@ -1,6 +1,6 @@
 # Averecion
 
-Welcome to **Avere-cion** – a development organization focused on AI automation, tooling, and workflow optimization.
+Welcome to **Averecion** – a development organization focused on AI automation, tooling, and workflow optimization.
 
 ## 🚀 What We're Building
 
