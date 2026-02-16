@@ -1,4 +1,4 @@
-# Avere-cion
+# Averecion
 
 Welcome to **Avere-cion** – a development organization focused on AI automation, tooling, and workflow optimization.
 
