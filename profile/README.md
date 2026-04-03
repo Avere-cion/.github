@@ -51,7 +51,7 @@ Compliance gaps, audit failures, trust breakdowns, and regulatory exposure are t
 
 ## Who we serve
 
-Enterprise technology leaders in regulated industries — energy, financial services, healthcare — who are deploying AI fast and need the accountability infrastructure to match.
+Enterprise technology leaders who are deploying AI fast and need the accountability infrastructure to match.
 
 If your organization is asking *“how do we govern what we are building”* — you are in the right place.
 
@@ -68,10 +68,10 @@ If your organization is asking *“how do we govern what we are building”* —
 
 ## Get involved
 
-We are actively working with enterprise pilot partners in regulated industries.
+We are actively working with design partners.
 
 - 🌐 **Platform:** [averecion.com](https://www.averecion.com)
-- 📧 **Pilots & partnerships:** ccanderson@averecion.com
+- 📧 **Pilots & partnerships:** info@averecion.com
 - 💼 **LinkedIn:** [Averecíon](https://linkedin.com/company/averecion)
 
 -----
