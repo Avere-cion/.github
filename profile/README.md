@@ -78,7 +78,7 @@ We are actively working with design partners.
 
 ## Team
 
-Founded by enterprise AI practitioners with experience deploying AI at scale inside Fortune 500 energy and technology companies.
+Founded by enterprise AI practitioners with experience deploying AI at scale.
 
 - [@stanchat](https://github.com/stanchat)
 
